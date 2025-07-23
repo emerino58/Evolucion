@@ -1,0 +1,17 @@
+Pos,Logo_Club,Clave,Club,PTS,PTSE,PJ,REN,PG,PE,PP,GF,GC,DIF
+1,data/Logos/Colo-Colo1.png,Colo-Colo,Colo-Colo,63,66,29,0.7586,21,3,5,48,20,28
+2,data/Logos/UdeChile1.png,UdeChile,Universidad de Chile,61,64,29,0.7356,19,7,3,52,23,29
+3,data/Logos/UEspanola1.png,UEspanola,Unión Española,45,46,29,0.5287,13,7,9,43,32,11
+4,data/Logos/UCatolica1.png,UCatolica,Universidad Católica,45,45,29,0.5172,13,6,10,53,43,10
+5,data/Logos/Iquique1.png,Iquique,Deportes Iquique,45,45,29,0.5172,13,6,10,51,48,3
+6,data/Logos/Everton1.png,Everton,Everton,41,44,29,0.5057,12,8,9,46,40,6
+7,data/Logos/Coquimbo1.png,Coquimbo,Coquimbo Unido,41,43,29,0.4943,12,7,10,44,33,11
+8,data/Logos/Palestino1.png,Palestino,Palestino,40,42,29,0.4828,11,9,9,35,33,2
+9,data/Logos/Nublense1.png,Nublense,Ñublense,40,40,29,0.4598,11,7,11,40,33,7
+10,data/Logos/Audax1.png,Audax,Audax Italiano,31,34,29,0.3908,10,4,15,36,37,-1
+11,data/Logos/OHiggins1.png,OHiggins,O'Higgins,31,33,29,0.3793,8,9,12,42,48,-6
+12,data/Logos/Huachipato1.png,Huachipato,Huachipato,31,31,29,0.3563,8,7,14,26,40,-14
+13,data/Logos/Cobresal1.png,Cobresal,Cobresal,30,31,29,0.3563,8,7,14,34,50,-16
+14,data/Logos/UCalera1.png,UCalera,Unión La Calera,30,31,29,0.3563,8,7,14,26,43,-17
+15,data/Logos/Cobreloa1.png,Cobreloa,Cobreloa,27,28,29,0.3218,8,4,17,30,62,-32
+16,data/Logos/Copiapo1.png,Copiapo,Copiapó,23,23,29,0.2644,7,2,20,39,60,-21
